@@ -13,3 +13,4 @@ document.write(Dad);
 var A = "3";
 document.write(A);
 //printing A the variable with value of 3
+

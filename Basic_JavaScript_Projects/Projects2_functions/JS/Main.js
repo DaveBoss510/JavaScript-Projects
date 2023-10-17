@@ -11,3 +11,12 @@ function secondFunction() {
     sentence += " lets see how it goes";
     document.getElementById("second").innerHTML = sentence;
 }
+
+//thirdFunction is addition function with id="dave" 
+
+function thirdFunction(a, b) {
+return a + b;
+}
+
+
+
