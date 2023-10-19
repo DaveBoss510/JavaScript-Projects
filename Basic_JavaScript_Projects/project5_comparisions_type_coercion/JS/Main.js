@@ -93,3 +93,4 @@ document.getElementById("Not").innerHTML = !(5 > 10);
 function no_Function() {
     document.getElementById("NO").innerHTML = !(5 < 10);
 }
+
