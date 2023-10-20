@@ -46,21 +46,23 @@ function davFunction() {
 //Nested function lesson example//
 function count_Function() {
     document.getElementById("Counting").innerHTML = Count();
-}
+
     function Count() {
         var Starting_point = 9;
         function Plus_one() {Starting_point += 1;}
         Plus_one();
         return Starting_point;
     }
+}
   
     //My own nested function //
 function subtract_Function() {
     document.getElementById("Nested_Function").innerHTML = subtract();
-}
+
     function subtract() {
         var Ten_lemons = 10;
         function Use_one() {Ten_lemons -= 1;}
         Use_one();
         return Ten_lemons;
     }
+}
