@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+        <p id="demo"></p>
+        <p id="displayCar"></p>
+        <p id="displayAge" onclick="myFunction2()">click</p>
+        <p id="demo1"></p>
+        <script>
+            myfunction = () => "This is my function";
+            document.getElementById("demo").innerHTML = myfunction;
+        </script>
+
+        <script>
+            var car;
+            car = (val) => "These are my favorite car brands: " + val;
+            document.getElementById("displayCar").innerHTML = car("Honda, Ford, and Nissan");
+            document.getElementById("displayCar").innerHTML = car("hi, bye hello");
+
+            var X;
+            X = (Y) => "Hi this is dave and I like:" + Y;
+            document.getElementById("displayCar").innerHTML = X("sandwiches");
+
+            var ages = [2, 10, 18, 20, 13, 15, 30];
+            checkAge = (age) => 18;
+
+            function myFunction2() {
+                document.getElementById("displayAge").innerHTML = ages.some(checkAge);
+            }
+
+            const numbers = [45, 4, 9, 16, 25];
+            let someOver18 = numbers.some(myFunction);
+
+            document.getElementById("demo1").innerHTML = "Some over 18 is " +
+            someOver18;
+            function myFunction(value, index, array) {
+                return value > 18;
+            }
+
+        </script>
+    </body>
+
+</html>
