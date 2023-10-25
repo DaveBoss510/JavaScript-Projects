@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(242, 189, 91);
+    display: flex;
+    align-items: center;
+}
+
+.img_right {
+    margin-left: 50px;
+}
+
+h1 {
+    -webkit-text-stroke: 2px black; /* width and color */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:aquamarine;
+}
+
+h3 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    color: rgb(193, 249, 245);
+}
+#menuBG {
+    width: 400px;
+    height: 470px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#frmMenu {
+    width: 400px;
+    height: 200px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(211, 247, 244);
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 0 auto;
+    float: right;
+}
+
+.left {
+    width: 200px;
+    height: 190px;
+    margin: 0 auto;
+    float: left;
+}
+
+.right {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+#cart {
+    top: 0; margin: 0px auto;
+    width: 400px;
+    height: 200px;
+}
+
+#btnOrder {
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height: 40px;
+}
