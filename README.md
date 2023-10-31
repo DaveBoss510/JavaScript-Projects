@@ -4,7 +4,7 @@
 
 ## Projects
 
-[Pizza Menu](JavaScript-Projects/Pizza_Project)
+[Pizza Menu](https://github.com/DaveBoss510/JavaScript-Projects/tree/main/Pizza_Project)
 ### Project2_functions
 ### Project3_math_oporators
 #### links soon to come...
