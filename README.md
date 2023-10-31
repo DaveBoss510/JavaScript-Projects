@@ -3,9 +3,7 @@
 ### These are some small projects I made using JavaScript:
 
 ## Projects
-[The Calculator](https://github.com/DaveBoss510/JavaScript-Projects/tree/main/Calculator)<br>
+[The Calculator](https://github.com/DaveBoss510/JavaScript-Projects/tree/main/Calculator)<br><br>
 [Pizza Menu](https://github.com/DaveBoss510/JavaScript-Projects/tree/main/Pizza_Project)
-### Project2_functions
-### Project3_math_oporators
-#### links soon to come...
+[Tic Tac Toe]()
 
