@@ -3,7 +3,7 @@
 ### These are some small projects I made using JavaScript:
 
 ## Projects
-[The Calculaor](
+[The Calculaor](https://github.com/DaveBoss510/JavaScript-Projects/tree/main/Calculator)
 [Pizza Menu](https://github.com/DaveBoss510/JavaScript-Projects/tree/main/Pizza_Project)
 ### Project2_functions
 ### Project3_math_oporators
