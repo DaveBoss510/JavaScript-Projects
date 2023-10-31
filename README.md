@@ -5,7 +5,7 @@
 ## Projects
 ``` 
 
- [Pizza Menu](../../../pizza_menu)
+ [Pizza Menu](https://github.com/DaveBoss510/JavaScript-Projects/blob/main/Pizza_Project/pizza.html)
 ### Project2_functions
 ### Project3_math_oporators
 #### links soon to come...
