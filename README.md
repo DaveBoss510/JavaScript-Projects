@@ -2,7 +2,6 @@
 
 ### These are some small projects I made using JavaScript:
 
-## Projects
 -[The Calculator](https://github.com/DaveBoss510/JavaScript-Projects/tree/main/Calculator)<br>
 
 A basic 4 function calculator. Users can add, subtract, multiply, and divide 
