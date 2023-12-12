@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <script src="JS/JSON.js" defer></script>
+       
+    </head>
+    <body>
+        <p id="Demo"></p>
+        <p id="hi"></p>
+       <script>
+        localStorage.setItem("Name", "Dax");
+document.getElementById("Demo").innerHTML = localStorage.getItem("Name");
+
+
+var dog = '{"name": "Dax", "breed": "Great Pyrenees", "color": "White"}';
+var JSONstring = JSON.parse(dog);
+document.getElementById("hi").innerHTML = JSONstring.name + " the " + JSONstring.breed;
+
+
+       </script>
+    </body>
+</html>
